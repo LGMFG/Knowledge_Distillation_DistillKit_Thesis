@@ -1,8 +1,7 @@
 # Knowledge Distillation for Small Language Models: From Instruction Following to Sub-Quadratic Attention
 
 Code and configurations for the master's thesis of Lukas Rosenberger,
-Institute for Machine Learning, Johannes Kepler University Linz (2026),
-supervised by Anamaria-Roberta Hartl.
+Institute for Machine Learning, Johannes Kepler University Linz (2026).
 
 The thesis asks what knowledge distillation transfers to a smaller or more
 efficient student, and what decides what transfers. It studies two settings:
